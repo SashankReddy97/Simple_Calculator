@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>               //code submitted by P.SASHANK REDDY
 #include <string.h>
 void add_item();
 void read_item();
